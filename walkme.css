@@ -1,0 +1,81 @@
+/* Danube Player*/
+div.walkme-player.walkme-danube.walkme-override div.walkme-bar, 
+div.walkme-player.walkme-danube.walkme-override * div.walkme-bar {
+background: #EED022 !important;
+}
+
+/* Menu Side Border */
+div.walkme-menu.walkme-penguin.walkme-override.walkme-direction-ltr div.walkme-main, 
+div.walkme-menu.walkme-penguin .walkme-override.walkme-direction-ltr div.walkme-main {
+border-left-color: #EED022 !important;
+}
+
+/* Open a Ticket Link Color */
+div.walkme-menu.walkme-penguin.walkme-override .walkme-open-ticket, 
+div.walkme-menu.walkme-penguin .walkme-override .walkme-open-ticket {
+color: #EED022 !important;
+}
+
+/* Search Button */
+div.walkme-menu.walkme-penguin.walkme-override div.walkme-search-box-button:active, 
+div.walkme-menu.walkme-penguin .walkme-override div.walkme-search-box-button:active {
+background-color: #EED022 !important;
+}
+div.walkme-search-box-button.walkme-loading-hide.walkme-override.walkme-css-reset {
+background-color: #EED022 !important;
+}
+/* Walk-thru Icons */
+div.walkme-menu.walkme-penguin.walkme-override .walkme-deployable.walkme-override div.walkme-deployable-icon.walkme-override, 
+div.walkme-menu.walkme-penguin.walkme-override .walkme-activatable.walkme-override div.walkme-deployable-icon.walkme-override, 
+div.walkme-menu.walkme-penguin .walkme-override .walkme-deployable.walkme-override div.walkme-deployable-icon.walkme-override, 
+div.walkme-menu.walkme-penguin .walkme-override .walkme-activatable.walkme-override div.walkme-deployable-icon.walkme-override {
+color: #EED022 !important;
+}
+/* Widget Height */
+div#walkme-menu.walkme-menu.walkme-penguin.walkme-container.walkme-theme-black-blue.walkme-splash.walkme-splashmenu.walkme-direction-ltr.walkme-position-major-bottom.walkme-position-minor-right.walkme-to-destroy.walkme-override.walkme-css-reset.walkme-language-default.walkme-no-tabs{
+height: auto !important;
+}
+
+/* -- Hide the footer Walk me + border  -- */
+div.walkme-custom-powered-by-div, div.walkme-custom-balloon-separator{
+display: none !important;
+}
+
+/*--- granting bottom padding to the bubble -- */
+div.walkme-custom-balloon-bottom-div{
+padding-bottom: 5px !important;
+}
+
+/*-- Making the title bigger for emphasis -- */
+div.walkme-custom-balloon-title{
+font-size: 18px !important;
+}
+
+
+/*----previous button ---*/
+button.walkme-custom-balloon-button.walkme-custom-balloon-weak-button.walkme-custom-balloon-back-button.walkme-action-back walkme-click-and-hover{
+padding: 0px 10px !important;
+margin: 10px !important;
+}
+
+
+/* -- next button  -- */
+button.walkme-custom-balloon-button.walkme-custom-balloon-normal-button.walkme-custom-balloon-next-button.walkme-action-next.walkme-click-and-hover{
+background: #EFD01B none repeat scroll 0% 0% !important;
+transition: all 0.5s ease-in;
+padding: 0px 10px !important;
+margin: 10px !important;
+}
+
+button.walkme-custom-balloon-button.walkme-custom-balloon-normal-button.walkme-custom-balloon-next-button.walkme-action-next.walkme-click-and-hover:hover{
+background: #D7B700 !important;
+transition: all 0.5s ease-in;
+}
+button.walkme-custom-balloon-button.walkme-custom-balloon-normal-button.walkme-custom-balloon-next-button.walkme-action-next.walkme-click-and-hover:active, button.walkme-custom-balloon-button.walkme-custom-balloon-normal-button.walkme-custom-balloon-next-button.walkme-action-next.walkme-click-and-hover:focus{
+background: #F2D948 !important
+}
+
+
+span.walkme-custom-balloon-button-text{
+font-size: 12px !important;
+}
