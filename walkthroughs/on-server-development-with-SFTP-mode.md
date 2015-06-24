@@ -1,8 +1,6 @@
----
-Permalink: /?walkme=72752
-In Widget: Yes
+Live: https://dashboard.pantheon.io/?walkme=72752
+Test at : https://brian.onebox.panth.io/?walkme=72752
 
----
 #On-Server Development with SFTP Mode
 Guides users through making a code change and commit it.
 ##Segmentation
