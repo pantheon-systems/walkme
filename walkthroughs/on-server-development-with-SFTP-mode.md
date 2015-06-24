@@ -1,5 +1,5 @@
-Live: https://dashboard.pantheon.io/?walkme=72752
-Test at : https://brian.onebox.panth.io/?walkme=72752
+Live: https://dashboard.pantheon.io/users/#sites/list?walkme=72752
+Test at : https://brian.onebox.panth.io/users/#sites/list?walkme=72752
 
 #On-Server Development with SFTP Mode
 Guides users through making a code change and commit it.
