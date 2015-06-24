@@ -51,10 +51,10 @@ Autoplay
 ###Install Your Site
 Access your site's Development environment through this button, and fill out the form to install the application.
 - Triggered by click
-- On Visit Developmen Site button
+- On Visit Development Site button
 
 ###Your Site is Ready!
-Next steps:  
-- Take the [wt=85617]Site Dashboard Tour[/wt],
+Next,   
 - Start building your site with the
 [wt=72752]On-Server Development Walkthrough[/wt].
+- Read how to set up your local environment
