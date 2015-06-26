@@ -1,9 +1,6 @@
----
-test at: https://brian.onebox.panth.io/?walkme=85617
-live at: https://dashboard.pantheon.io/?walkme=85617
-In widget: yes
+test at: https://brian.onebox.panth.io/?walkme=115961
+live at: https://dashboard.pantheon.io/?walkme=115961
 
----
 #Detailed Site Dashboard Tour
 Walkthrough for the entire site dashboard.
 
