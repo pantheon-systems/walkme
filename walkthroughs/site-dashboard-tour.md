@@ -1,6 +1,6 @@
 ---
-test at: https://brian.onebox.panth.io/?walkme=85617
-live at: https://dashboard.pantheon.io/?walkme=85617
+test at: https://brian.onebox.panth.io/users/#sites/list?walkme=85617
+live at: https://dashboard.pantheon.io/users/#sites/list?walkme=85617
 In widget: yes
 
 ---
