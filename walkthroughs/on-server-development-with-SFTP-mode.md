@@ -1,5 +1,8 @@
 Live: https://dashboard.pantheon.io/users/#sites/list?walkme=72752
-Test at : https://brian.onebox.panth.io/users/#sites/list?walkme=72752
+
+Test: https://brian.onebox.panth.io/users/#sites/list?walkme=72752
+
+Description: Tutorial walkthrough for working directly on Pantheon.
 
 #On-Server Development with SFTP Mode
 Guides users through making a code change and commit it.
