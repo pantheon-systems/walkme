@@ -1,5 +1,9 @@
 /*This file is a record of the active styles from the walkme editor. Update this file any time you deploy a new style through the editor.*/ 
 /* Danube Player*/
+div#walkme-player.walkme-player{
+z-index: 1000 !important;
+}
+
 div.walkme-player.walkme-danube.walkme-override div.walkme-bar, 
 div.walkme-player.walkme-danube.walkme-override * div.walkme-bar {
 background: #EED022 !important;
@@ -93,3 +97,6 @@ a.walkme-custom-bbcode-wt-link.walkme-action-start-wt{
 color: #FFFFFF;
 text-decoration:underline;
 }
+/*--Replace image--*/
+div.walkme-player.walkme-zambezi.walkme-theme-black-blue.walkme-position-major-bottom.walkme-position-minor-right_corner {
+    background-image: url("http://d2qkfn813cyz6e.cloudfront.net/images/pantheon-zambezisvg.svg") !important;
